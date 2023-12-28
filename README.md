@@ -59,6 +59,8 @@ You can see [here][wiki] for more detail.
 [disquiet]: https://disquiet.io/
 [wiki]: https://github.com/BeaverHouse/repo-template/wiki/About-repository-template
 
+<!-- Write more content if you want. -->
+
 <!--
 You can find some emojis at https://emojipedia.org/
 You can find some badges at https://ileriayo.github.io/markdown-badges/
