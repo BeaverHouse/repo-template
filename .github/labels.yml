@@ -4,9 +4,9 @@
 - name: "documentation"
   color: 0052cc
   description: "Documentation about this repository"
-- name: "code improvement"
+- name: "code-improvement"
   color: 1dd5db
-  description: "Improving performance or readability of code, not introducing new features. It includes code refactoring."
+  description: "Improving performance or readability of code, not introducing new features. Includes refactoring."
 - name: "dependencies"
   color: f6d582
   description: "Change in dependency file"
