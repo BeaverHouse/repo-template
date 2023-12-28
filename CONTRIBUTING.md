@@ -13,7 +13,8 @@ Please write the Issue/Pull Request in detail clearly.
 Developer can ask for additional information if required,  
 and also can ignore/reject it if the content is hard to understand or unreasonable.
 Issue나 PR 작성시 개발자가 내용을 잘 파악할 수 있게 해 주세요.  
-개발자는 필요시 추가 정보를 요청할 수 있고, 내용을 파악할 수 없거나 무리한 요구일 경우 무시/거부할 수 있습니다.
+개발자는 필요시 추가 정보를 요청할 수 있고,  
+내용을 파악할 수 없거나 무리한 요구일 경우 무시/거부할 수 있습니다.
 
 <!-- for ✅Active -->
 
