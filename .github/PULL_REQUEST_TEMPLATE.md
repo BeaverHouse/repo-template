@@ -1,4 +1,4 @@
-<!-- for ✅Active, ⚠Minimum maintenance -->
+<!-- below for ✅Active, ⚠Minimum maintenance -->
 
 ### Self Check
 
@@ -8,7 +8,7 @@
 
 <!-- Describe what you did in detail. -->
 
-<!-- for ⛔Deprecated -->
+<!-- below for ⛔Deprecated -->
 
 <!--
 ## DO NOT make Pull Request
