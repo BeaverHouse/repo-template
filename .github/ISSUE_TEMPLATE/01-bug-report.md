@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Bug report
 about: Create a bug report to help resolving error.
 title: "Bug: "
 labels: "bug"
@@ -50,5 +50,6 @@ Related issues, suggestions on how to fix, link for reference, etc.
 -->
 
 <!--
+Issue template for non-deprecated repository
 Original template from https://github.com/dec0dOS/amazing-github-template
 -->

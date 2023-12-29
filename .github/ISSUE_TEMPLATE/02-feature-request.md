@@ -1,5 +1,5 @@
 ---
-name: Feature Request
+name: Feature request
 about: Suggest an idea for this project
 title: "Feature: "
 labels: "feature"
@@ -15,7 +15,7 @@ Please include why you need this feature.
 왜 이 기능이 필요한지에 대한 이유를 포함해 주세요.
 -->
 
-**Detailed Description**
+**Detailed description**
 
 <!--
 Write some details about your feature.
@@ -24,14 +24,14 @@ It would be easier to help you if you provide the requirements and details as mu
 요구사항과 세부 내용을 최대한 자세히 작성해 주셔야 대응해 드리기 편합니다.
  -->
 
-**Related Code/Reference**
+**Related code/reference**
 
 <!--
 If you know the code or reference about this feature, please share it to us.
 해당 기능과 관련된 코드나 참고자료를 알고 계신다면, 공유해 주세요.
 -->
 
-**Other Information**
+**Other information**
 
 <!--
 List any other information that is relevant to your feature.
@@ -47,5 +47,6 @@ If you want to contribute to this repository, I will add you as a contributor an
 -->
 
 <!--
+Issue template for ✅Active repository
 Original template from https://github.com/dec0dOS/amazing-github-template
 -->
