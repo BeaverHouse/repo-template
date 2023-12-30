@@ -24,6 +24,7 @@ Inspired from a comment from [Disquiet][disquiet]
 
 <details>
 <summary>Original Comment (Korean)</summary>
+<br>
 
 ```
 포트폴리오 링크로 쓸 프로젝트는 형식을 갖출 건 갖춰주는 게 좋습니다.
