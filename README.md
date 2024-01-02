@@ -20,7 +20,7 @@ N/A
 
 <!-- Write some description about this repo -->
 
-Inspired from a comment from [Disquiet][disquiet]
+Inspired from a comment from [Disquiet][disquiet], [KJ Kim][kjkim]
 
 <details>
 <summary>Original Comment (Korean)</summary>
@@ -73,6 +73,7 @@ Actually it was about portfolio, but I impressively see this comment and decided
 You can see [here][wiki] for more detail.
 
 [disquiet]: https://disquiet.io/
+[kjkim]: https://disquiet.io/@genonfire
 [wiki]: https://github.com/BeaverHouse/repo-template/wiki/About-repository-template
 
 <!-- Write more content if you want. -->
