@@ -11,9 +11,11 @@ group:
       - LICENSE
       - SECURITY.md
     repos: |
+      BeaverHouse/python-script-hub
 
   # Python
   - files:
       - source: .github/workflows/python
         dest: .github/workflows
     repos: |
+      BeaverHouse/python-script-hub
