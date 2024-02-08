@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
     </a>
     <a href="https://yaml.org/">
-	    <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=flat&logo=YAML&logoColor=white" alt="YAML">
+      <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=flat&logo=YAML&logoColor=white" alt="YAML">
     </a>
     <a href="./LICENSE">
       <img src="https://img.shields.io/github/license/BeaverHouse/repo-template" alt="License">
