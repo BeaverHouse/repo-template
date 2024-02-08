@@ -11,9 +11,17 @@ group:
       - LICENSE
       - SECURITY.md
     repos: |
+      HU-Lee/anotherdungeon
+      HU-Lee/aecheck-v2
 
   # Python
   - files:
       - source: .github/workflows/python
+        dest: .github/workflows
+    repos: |
+
+  # Lint
+  - files:
+      - source: .github/workflows/yarn-lint
         dest: .github/workflows
     repos: |
