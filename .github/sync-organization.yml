@@ -13,6 +13,7 @@ group:
     repos: |
       BeaverHouse/python-script-hub
       BeaverHouse/aecheck-data
+      BeaverHouse/aecheck-v3
 
   # Python
   - files:
@@ -21,3 +22,10 @@ group:
     repos: |
       BeaverHouse/python-script-hub
       BeaverHouse/aecheck-data
+
+  # Lint
+  - files:
+      - source: .github/workflows/yarn-lint
+        dest: .github/workflows
+    repos: |
+      BeaverHouse/aecheck-v3
