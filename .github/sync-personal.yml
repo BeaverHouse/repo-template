@@ -13,6 +13,8 @@ group:
     repos: |
       HU-Lee/anotherdungeon
       HU-Lee/aecheck-v2
+      HU-Lee/LeetCode
+      HU-Lee/BOJ
 
   # Python
   - files:
