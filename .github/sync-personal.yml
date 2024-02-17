@@ -27,3 +27,9 @@ group:
       - source: .github/workflows/yarn-lint
         dest: .github/workflows
     repos: |
+
+  # No-lint
+  - files:
+      - source: .github/workflows/yarn-nolint
+        dest: .github/workflows
+    repos: |

@@ -14,6 +14,10 @@ group:
       BeaverHouse/python-script-hub
       BeaverHouse/aecheck-data
       BeaverHouse/aecheck-v3
+      BeaverHouse/blog
+      BeaverHouse/profile
+      BeaverHouse/dive-argo-fastapi
+      BeaverHouse/dive-argo-fastapi-helm
 
   # Python
   - files:
@@ -29,3 +33,10 @@ group:
         dest: .github/workflows
     repos: |
       BeaverHouse/aecheck-v3
+
+  # No-lint
+  - files:
+      - source: .github/workflows/yarn-nolint
+        dest: .github/workflows
+    repos: |
+      BeaverHouse/profile
