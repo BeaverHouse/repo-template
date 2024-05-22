@@ -16,6 +16,10 @@ group:
       BeaverHouse/aecheck-v3
       BeaverHouse/dive-argo-fastapi
       BeaverHouse/dive-argo-fastapi-helm
+      BeaverHouse/dive-argo
+      BeaverHouse/bluearchive-torment-front
+      BeaverHouse/bluearchive-torment-data
+      BeaverHouse/mfa-test
 
   # Python
   - files:
@@ -24,6 +28,7 @@ group:
     repos: |
       BeaverHouse/python-script-hub
       BeaverHouse/aecheck-data
+      BeaverHouse/bluearchive-torment-data
 
   # Lint
   - files:
@@ -37,3 +42,4 @@ group:
       - source: .github/workflows/yarn-nolint
         dest: .github/workflows
     repos: |
+      BeaverHouse/dive-argo
